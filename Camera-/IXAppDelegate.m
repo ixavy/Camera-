@@ -12,6 +12,8 @@
 
 @implementation IXAppDelegate
 
+// Comentario para probar git
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
